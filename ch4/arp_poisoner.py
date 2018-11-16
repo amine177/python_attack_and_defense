@@ -1,5 +1,7 @@
 #!/bin/env python
 # -*- coding: utf-8 -*-
+# Disclaimer: This tool is for educational purposes only
+#             knowledge is not meant for harming others
 
 
 import sys
